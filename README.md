@@ -1,7 +1,7 @@
 # javaHome1
 
 
-##Markdown##
+##Markdown
 - Training programming exercises in Java.
 - Another stuff
 
